@@ -1,0 +1,13 @@
+Sorted array: [54, 74, 154, 162, 201, 345, 673, 776, 781, 876]
+The number 201 was found at index 4.
+The array must only contain integers.
+Sorted array: [162, 174, 237, 290, 463, 513, 528, 593, 663, 701]
+The number 701 was found at index 9.
+Sorted array: [126, 151, 251, 278, 322, 536, 560, 562, 667, 870]
+The number 126 was found at index 0.
+Sorted array: [45, 68, 304, 332, 384, 401, 404, 744, 796, 971]
+The number 728 was not found in the array.
+The array or search number is empty.
+The search number must be an integer.
+Sorted array: [-568, 20, 124, 168, 379, 515, 538, 930, 940, 998]
+The number 998 was found at index 9.
